@@ -3,11 +3,11 @@
 
 - Разработал корпоративный мессенджер **(-..-)**
 
-- 🌱 Изучаю **Изучаю Back-end, углубляю знания во фронте**
+- 🌱 Изучаю **Back-end, углубляю знания во фронте**
 
 - 💬 Main stack **React, Next, Redux / Redux Toolkit, RTK Query**
 
-- 📫 Связаться **Email: shcherbakovkirill2@gmail.com**
+- 📫 Связаться **Email: shcherbakovkirill2@gmail.com, TG: @RAVK2**
 
 - 📄 Резюме [https://hh.ru/resume/afc21512ff0cddfd100039ed1f7a6541327766](https://hh.ru/resume/afc21512ff0cddfd100039ed1f7a6541327766)
 
