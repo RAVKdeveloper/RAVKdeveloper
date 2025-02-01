@@ -1,15 +1,11 @@
-<h1 align="center">Привет, меня зовут Кирилл!</h1>
-<h3 align="center">Обо мне:</h3>
+<h1 align="center">Hi, my name is Kirill!</h1>
+<h3 align="center">About me:</h3>
 
-- Разработал корпоративный мессенджер **(-..-)**
+- 🌱 I work **Back-end developer**
 
-- 🌱 Изучаю **Back-end, углубляю знания во фронте**
+- 💬 Main stack **Nodejs, Nest, Postgresql, Redis, Kafka**
 
-- 💬 Main stack **React, Next, Redux / Redux Toolkit, RTK Query**
-
-- 📫 Связаться **Email: shcherbakovkirill2@gmail.com, TG: @RAVK2**
-
-- 📄 Резюме [https://hh.ru/resume/afc21512ff0cddfd100039ed1f7a6541327766](https://hh.ru/resume/afc21512ff0cddfd100039ed1f7a6541327766)
+- 📫 Contact **Email: shcherbakovkirill2@gmail.com, TG: @RAVK2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
