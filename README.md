@@ -1,6 +1,8 @@
 <h1 align="center">Hi, my name is Kirill!</h1>
 <h3 align="center">About me:</h3>
 
+- Programm languages **JavaScript, TypeScript, Rust, C**
+
 - 🌱 I work **Back-end developer**
 
 - 💬 Main stack **Nodejs, Nest, Postgresql, Redis, Kafka**
