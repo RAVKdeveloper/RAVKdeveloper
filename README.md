@@ -7,7 +7,7 @@
 
 - 💬 Main stack **Golang, Nodejs, Nest, Postgresql, Redis, Kafka**
 
-- 📫 Contact **Email: shcherbakovkirill2@gmail.com, TG: @RAVK2**
+- 📫 Contact **Email: kirillryazanov835@gmail.com, TG: @kirillRyazanovGo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
